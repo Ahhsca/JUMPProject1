@@ -10,10 +10,10 @@ Requirements:
 * Use Exception handling in all appropriate places
 * Have a console based U/I menu system that allows a user to navigate through your app and perform all of the CRUD operations listed above, at a minimum
 
-* Areas for improvement: 
+Areas for improvement: 
   * Make department an object
   * Use DateTime API for Date of Employment
 
-* Issues
+Issues
   * Currently string inputs only takes a single word
   * ID is not unique if Employee is added at different run times
